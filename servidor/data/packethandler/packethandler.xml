@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packethandler>
+	<!-- <packet name="Example" opcode="150" script="example.lua"/> -->
+	<packet name="SpecialOpcode" opcode="67" script="special_opcode.lua"/>
+</packethandler>

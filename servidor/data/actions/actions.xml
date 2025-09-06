@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+		<!-- VOCATIONS -->
+	<action itemid="0001" script="vocations/harry potter.lua" />
+	<action itemid="0002" script="vocations/hermione granger.lua" />
+	<action itemid="0003" script="vocations/ron weasley.lua" />
+	<action itemid="0004" script="vocations/draco malfoy.lua" />
+	<action itemid="0005" script="vocations/lord voldemort.lua" />
+</actions>
